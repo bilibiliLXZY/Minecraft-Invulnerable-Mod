@@ -1,6 +1,6 @@
 # Minecraft-Invulnerable-Mod
 
-You can copy the sourcecode and use it in your project. Just credit to me and write the link to here. :D
+You can copy the sourcecode and use it in your project. Just credit to me and write the link to here in your project. :D
 
 The Minecraft Invulnerable mod.
 
