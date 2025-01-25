@@ -8,3 +8,4 @@ The Minecraft Invulnerable mod.
 5. No update suppression crash
 6. piston can move reinforced deepslate.
 7. Sword can avoid damage. like a shield
+8. Attacking cooldown removed
