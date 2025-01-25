@@ -1,4 +1,7 @@
 # Minecraft-Invulnerable-Mod
+
+You can copy the sourcecode and use it in your project. Just credit to me and write the link to here. :D
+
 The Minecraft Invulnerable mod.
 
 1. Hay block can 100% avoid fall damage
