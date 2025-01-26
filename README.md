@@ -17,3 +17,5 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 11. Stronger Channeling enchantment -- without thunder requirement
 12. Stringer Riptide enchantment -- without weather requirement
 13. can start sprinting when using, or have blindness effect
+14. Respiration enchantment++
+15. Elytra no damage
