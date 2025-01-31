@@ -19,3 +19,7 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 13. can start sprinting when using, or have blindness effect
 14. Respiration enchantment++
 15. Elytra no damage
+16. Instant Block Updater reintroduced
+17. Trapdoor state redirects redstone direction.
+18. Noteblock update suppression reintroduced
+19. smaller "Failed to handle packet" message
