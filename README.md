@@ -21,5 +21,9 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 15. Elytra no damage
 16. Instant Block Updater reintroduced
 17. Trapdoor state redirects redstone direction.
-18. Noteblock update suppression reintroduced
+18. Noteblock update suppression reintroduced (unstable)
 19. smaller "Failed to handle packet" message
+20. ender pearl chunk loading
+21. safe ender pearl
+22. Border no limit(Unstable)
+23. Farland reintroduced...? (code from PercyDan, not tested, https://github.com/PercyDan54/BorderRemover)
