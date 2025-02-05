@@ -26,4 +26,5 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 20. ender pearl chunk loading
 21. safe ender pearl
 22. Border no limit(Unstable)
-23. Farland reintroduced...? (code from PercyDan, not tested, https://github.com/PercyDan54/BorderRemover)
+23. The End dimension bug MC-159283 fixed
+24. Farland reintroduced...? (code from PercyDan, tested, https://github.com/PercyDan54/BorderRemover)
