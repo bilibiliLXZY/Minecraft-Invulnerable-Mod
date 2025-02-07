@@ -32,3 +32,6 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 26. no chunk generating crash
 27. added a command: /crash. when have no parameters(player), it crash the server, when have the parameters, it crash the player.
 28. added a command: /swapCrashClientWhenTotemTrigger. when enabled, the totem-triggering crashes the client.
+29. the command /swapTotemShows is a client command now.
+30. added 3 items: minecraft:crash_...
+31. /crash command without parameters can't be run in a command block anymore.
