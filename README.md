@@ -35,3 +35,4 @@ The Minecraft Invulnerable mod -- needs Fabric API.
 29. the command /swapTotemShows is a client command now.
 30. added 3 items: minecraft:crash_...
 31. /crash command without parameters can't be run in a command block anymore.
+32. Ender pearl sound
